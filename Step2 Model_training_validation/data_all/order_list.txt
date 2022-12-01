@@ -1,0 +1,8 @@
+Train_Positive.fasta 470
+Train_Negative.fasta 318
+Test_Positive.fasta 122
+Test_Negative.fasta 75
+positive.fasta 592
+negative.fasta 592
+Train.fasta
+Test.fasta
