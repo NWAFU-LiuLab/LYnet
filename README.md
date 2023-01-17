@@ -14,6 +14,6 @@ Including:
 # Other_models_code
 This file contains the feature data recurrence code of the previous three models.  
 Including:  
-1--iTTCA-Hybrid
-2--TAP 1.0
-3--iTTCA-RF
+1--iTTCA-Hybrid  
+2--TAP 1.0  
+3--iTTCA-RF  
