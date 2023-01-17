@@ -33,6 +33,6 @@ This file contains the test results of LYnet model on Benchmark dataset.
 Including:  
 1--data2  
 2--data3  
-3--data4
-4--data_all
-5--bestnpz
+3--data4  
+4--data_all  
+5--bestnpz  
