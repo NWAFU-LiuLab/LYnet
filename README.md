@@ -17,3 +17,9 @@ Including:
 1--iTTCA-Hybrid  
 2--TAP 1.0  
 3--iTTCA-RF  
+# Related_files
+This file contains previous research papers, data sets and calculated AUC data files.  
+Including:  
+1--Five related research papers  
+2--3-datasets-4-models  
+3--data_AUC_plot  
