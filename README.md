@@ -4,10 +4,10 @@
 An improved machine-learning based prediction tool for identifying tumor T cell antigens（TTCA）
 was implemented in python 3.7
 
-Benchmark dataset
-# This file contains all standard protein sequences used in this project.
-Including:
-1--iTTCA-RF dataset Train.FASTA
-2--iTTCA-RF dataset Test.FASTA
-3--TAP 1.0 dataset positive.txt
-4--TAP 1.0 dataset negative.txt
+# Benchmark dataset
+This file contains all standard protein sequences used in this project.  
+Including:  
+1--iTTCA-RF dataset Train.FASTA  
+2--iTTCA-RF dataset Test.FASTA  
+3--TAP 1.0 dataset positive.txt  
+4--TAP 1.0 dataset negative.txt  
